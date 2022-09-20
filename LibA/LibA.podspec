@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.summary          = 'Liba'
     s.description      = 'LibA.'
     s.homepage         = 'https://github.com/carloschaguendoml/extension-order'
-    s.source           = { :http: => "https://github.com/carloschaguendoml/extension-order" }
+    s.source           = { :git => "https://github.com/carloschaguendoml/extension-order.git" }
 
     s.license          = { :type => 'MIT' }
     s.author           = 'N/a'
